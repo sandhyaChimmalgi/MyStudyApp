@@ -1,1 +1,1 @@
-# MyStudyApp
+# myStudyApp
